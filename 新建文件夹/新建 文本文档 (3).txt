@@ -1,0 +1,7 @@
+4.运行web ui
+下载好模型参数到models目录下即可
+
+执行
+
+python server.py  --listen-host 0.0.0.0 --listen-port 7866 --listen   #让本机可以访问，具体参数请见gi
+python server.py  --listen-host 192.168.10.224 --listen-port 7866 --listen 
